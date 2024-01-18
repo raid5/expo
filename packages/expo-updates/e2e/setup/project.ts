@@ -23,6 +23,7 @@ function getExpoDependencyChunks({
     [
       '@expo/cli',
       '@expo/config-plugins',
+      '@expo/fingerprint',
       'expo',
       'expo-asset',
       'expo-modules-core',
